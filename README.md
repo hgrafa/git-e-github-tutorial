@@ -1,2 +1,1 @@
-# git-e-github-tutorial
-Tutorial que indico aos meus alunos iniciarem na ferramenta git e no github.
+# Tutorial Git e Github 
