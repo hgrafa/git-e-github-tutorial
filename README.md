@@ -1,8 +1,6 @@
-# Tutorial Git e Github 
+# Tutorial Git e Github
 
-## Introdução
-
-O objetivo deste tutorial é ser um guia para desenvolver e expor os projetos no github, usando a ferramenta git. 
+O objetivo deste tutorial é ser um guia para desenvolver e expor os projetos no github, usando a ferramenta git.
 
 ## Módulos
 
@@ -10,16 +8,14 @@ O objetivo deste tutorial é ser um guia para desenvolver e expor os projetos no
 |`#Id`|Conteúdo|
 |:--:|:--:|
 |`#01`| [O que é?]() |
-|`#02`| |
-|`#03`| |
-
+|`#02`| []() |
+|`#03`| []() |
 
 ### Comandos Iniciais
 |`#Id`|Conteúdo|
 |:--:|:--:|
 |`#04`| |
 |`#05`| |
-
 
 ## Novos conceitos e recursos
 
